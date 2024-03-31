@@ -16,7 +16,7 @@ To view the replica of the Google search page:
 
 1.Clone this repository to your local machine.
 
-2.Open the index.html file in a web browser.
+2.Open the index.html (challenge8c.html) file in a web browser.
 
 Technologies Used
 HTML
