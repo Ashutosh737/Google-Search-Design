@@ -1,4 +1,4 @@
-Google Search Page Replica
+Google Search Page Replica -
 
 This project replicates the design of the Google search page. Below you'll find details on how to view the page and any additional information you may need.
 
