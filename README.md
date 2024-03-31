@@ -15,11 +15,13 @@ To view the replica of the Google search page:
 
 
 1.Clone this repository to your local machine.
+
 2.Open the index.html file in a web browser.
 
 Technologies Used
 HTML
 CSS
+
 Credits
 This project was created by Ashutosh Chauhan.
 
